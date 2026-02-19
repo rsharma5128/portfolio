@@ -197,7 +197,6 @@ My family is my main inspiration, and they are the reason I am still here today 
 Gallery of Pics...
 </comment>
 <div class="image-gallery">
-  <img src="" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/mort2.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/mort4.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/mort5.jpg" alt="Image 3">
