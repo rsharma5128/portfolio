@@ -48,6 +48,16 @@ Hi! My name is [Your Full Name]
             N@TM Blog
         </div>
     </a>
+     <a href="{{site.baseurl}}/about" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            About Page
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/tools/journey" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Tools Quest(part of about page)
+        </div>
+    </a>
     <a href="{{site.baseurl}}/htmldom" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Codeveloped HTML DOM
