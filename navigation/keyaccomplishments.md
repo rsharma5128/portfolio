@@ -20,7 +20,7 @@ B --> C
 ```
 My key accomplishments also include learning how to make a game using Javascript, like shown at [https://ahmad-se-tech.github.io/tablegroup/custompong](https://ahmad-se-tech.github.io/tablegroup/custompong), where I made a pong game with the help of my friend Matt.
 
-[![My pong game screenshot](images/pong.png)](https://ahmad-se-tech.github.io/tablegroup/custompong)
+[![My pong game screenshot](images/p)](https://ahmad-se-tech.github.io/tablegroup/custompong)
 
 Another key accomplishment I had as a coder was learning about one of the fundamentals which correlated to what I was doing and teaching about it, as seen [here](https://pages.opencodingsociety.com/js/nested-conditionals)
 
