@@ -5,6 +5,13 @@ description: My experience at N@TM
 permalink: /natmblog
 author: Rohan Sharma
 ---
+<style>
+    .image-gallery img {
+        max-height: 150px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+</style>
 
 ### NOTES ABOUT SOFTWARE DEVELOPMENT LIFE CYCLE(SDLC):
 

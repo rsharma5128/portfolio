@@ -10,44 +10,17 @@ My key accomplishments were mainly as a coder, with me discovering how to code i
 
 ```mermaid
 flowchart LR
-    %% GitHub Sources
-    subgraph GitHub_Pages[GitHub: Open-Coding-Society/pages]
-        A[Repo: pages]:::repo
+    subgraph Day_1[Day 1-7 Computer Setup]
+        A[Days 1-3<br/><br/>Created Github and Slack account<br/>Joined Open Coding Society Slack<br/>Discussed PII<br/>Cloned OpenCS repo<br/>Set up Github Pages<br/>Made issues on repo<br/>Used vscode.dev web client to edit repo files<br/>Taught how to do basic things like modify text and what files correspond to webpage]:::dayuno
+        B[Days 4-7<br/><br/>Installed different ways of accessing Linux<br/>WSL, Homebrew, Kasm <br/>Pulled Github repo to Linux<br/>Edited repo in VSCode app<br/>Figured out how to access localhost using VSCode app and make command<br/>Learned to commit and push changes]:::daydos
+        C[Days 8-9<br/>Website File editing<br/><br/>Taught how to create files in repositories<br/>Reflected on journey through days 1-7<br/>Learn basic Mermaid and Markdown which was optional<br/>Read troubleshooting guide]:::daytres
     end
-
-    subgraph GitHub_Template[GitHub:]
-        T[Template Repo: student]:::repo
-    end
-
-    subgraph GitHub_Student[GitHub: rsharma5128/student]
-        B[Repo: student]:::repo
-    end
-
-    %% Local Computer
-    subgraph Local[Local Computer]
-        subgraph opencs_dir[opencs/ directory]
-            C[pages/]:::local
-            Ccmd[VSCode Prep<br/><br/>./scripts/venv.sh<br/>source venv/bin/activate<br/>code .]:::cmd
-        end
-        subgraph user_dir[rsharma5128/ directory]
-            D[student/]:::local
-            Dcmd[VSCode Prep<br/><br/>./scripts/venv.sh<br/>source venv/bin/activate<br/>code .]:::cmd
-        end
-    end
-
-    %% Arrows: cloning
-    A -.->|clone/pull only| C
-    B <--> |clone, pull & push| D
-
-    %% Arrows: template relationship
-    T -.->|template→created| B
-
-    %% Arrows: commands
-    C --> Ccmd
-    D <--> Dcmd
-    
+A --> B
+B --> C
 ```
 My key accomplishments also include learning how to make a game using Javascript, like shown at [https://ahmad-se-tech.github.io/tablegroup/custompong](https://ahmad-se-tech.github.io/tablegroup/custompong), where I made a pong game with the help of my friend Matt.
+
+[![My pong game screenshot](images/pong.png)](https://ahmad-se-tech.github.io/tablegroup/custompong)
 
 Another key accomplishment I had as a coder was learning about one of the fundamentals which correlated to what I was doing and teaching about it, as seen [here](https://pages.opencodingsociety.com/js/nested-conditionals)
 
