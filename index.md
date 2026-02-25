@@ -38,7 +38,7 @@ Hi! My name is Rohan Sharma.
             Key accomplishments
         </div>
     </a>
-    <a href="{{site.baseurl}}/homeworkcombination" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/homeworkconcatenation" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Homework concatenation
         </div>
