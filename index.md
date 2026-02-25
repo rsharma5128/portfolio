@@ -58,11 +58,6 @@ Hi! My name is Rohan Sharma.
             Tools Quest(part of about page)
         </div>
     </a>
-    <a href="{{site.baseurl}}/htmldom" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Codeveloped HTML DOM
-        </div>
-    </a>
 </div>
 
 <br>
