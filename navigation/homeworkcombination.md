@@ -1,3 +1,4 @@
+---
 layout: post 
 title: Blog about my key accomplishments 
 description: A reflection of this trimester 
@@ -15,32 +16,32 @@ author: Rohan Sharma
 
 ## Booleans homework
 
-[Booleans](rsharma5128.github.io/portfolio/js/booleans)
+[Booleans]({{site.baseurl}}/js/booleans)
 
 ## Mathematical operations homework
 
-[Mathematical operations](rsharma5128.github.io/portfolio/js/math)
+[Mathematical operations]({{site.baseurl}}/js/math)
 
 ## JSON Data Structures homework
 
-[JSON Data Structures](rsharma5128.github.io/portfolio/js/json)
+[JSON Data Structures]({{site.baseurl}}/js/json)
 
 ## Iterations homework
 
-[Iterations](rsharma5128.github.io/portfolio/iterations/hw)
+[Iterations]({{site.baseurl}}/iterations/hw)
 
 ## Data Abstraction homework
 
-[Data Abstraction](rsharma5128.github.io/portfolio/js/dataabstraction)
+[Data Abstraction]({{site.baseurl}}/js/dataabstraction)
 
 ## Arrays homework
 
-[Arrays](rsharma5128.github.io/portfolio/js/arrays)
+[Arrays]({{site.baseurl}}/js/arrays)
 
 ## Classes and Methods homework
 
-[Classes and Methods](rsharma5128.github.io/portfolio/js/classes)
+[Classes and Methods]({{site.baseurl}}/js/classes)
 
 ## Strings homework
 
-[Strings](rsharma5128.github.io/portfolio/js/strings-hw)
+[Strings]({{site.baseurl}}/js/strings-hw)
