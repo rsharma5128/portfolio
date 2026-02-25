@@ -5,6 +5,15 @@ description: My experience at N@TM
 permalink: /natmblog
 author: Rohan Sharma
 ---
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Link back to homepage
+        </div>
+    </a>
+</div>
+
 <style>
     .image-gallery img {
         max-height: 150px;
@@ -29,7 +38,15 @@ Finally, get playtesters or testers to play/use your game/site to get feedback f
 
 ### Wait…
 
-But then again, this was Night At The Museum. This is an event designed to show the talent of the CS students, not just taking some notes to get an A. You know, I remember last trimester, I had to attend Night At The Museum for a 3D modeling class assignment and I was groaning, “Ughh, this is so boring, why am I here?” But then I remember walking into the A101 room and then just looking around at the projects and being impressed that so many people could care about computer science at once, and how many students could care about computer science and actually make really good projects that showcase their talent. I remember there was one kind of teaching project last trimester about space or something, and that really stood out to me. It really just made me ask, “Is this even a high school student? This looks like something I would see at some sort of trade expo.” And this trimester blew me away even more. I saw so many cool projects, like the CSP game that taught people about crypto mining, and CSP and CSA using a backend version of Gemini that allowed for processing of text and images like with one of the projects which showed you news sources and then told you which political party they leaned toward to. I even tested the ability to generate a thesis with evidence by putting in a couple of words like “ice is bad” and it spat out an entire paragraph off of that that could have been accepted for an AP exam, like my jaw was open. Even the games were off the charts, with me seeing such cool things like the asteroid game on one of the TVs near the door and it looked like something I would see in an actual video game. Honestly, all of this N@TM stuff made me realize that there’s so much more stuff I can be doing in CS. I just need to apply myself more. But also, thank you. Thank you for helping me realize that there’s so much more interests I could show. So much more things that I could be coding in CS.
+But then again, this was Night At The Museum. This is an event designed to show the talent of the CS students, not just taking some notes to get an A. You know, I remember last trimester, I had to attend Night At The Museum for a 3D modeling class assignment and I was groaning, “Ughh, this is so boring, why am I here?” But then I remember walking into the A101 room and then just looking around at the projects and being impressed that so many people could care about computer science at once, and how many students could care about computer science and actually make really good projects that showcase their talent. I remember there was one kind of teaching project last trimester about space or something, and that really stood out to me. It really just made me ask, “Is this even a high school student? This looks like something I would see at some sort of trade expo.” And this trimester blew me away even more. I saw so many cool projects, like the CSP game that taught people about crypto mining here,
+<img src="{{site.baseurl}}/images/about/image1.jpeg" alt="Image description" style="max-width: 300px; height: auto; border-radius: 5px; margin: 10px 0;">
+
+and also CSP and CSA using a backend version of Gemini that allowed for processing of text and images like with one of the projects which showed you news sources and then told you which political party they leaned toward to, like here.
+
+<img src="{{site.baseurl}}/images/about/image2.jpeg" alt="Image description" style="max-width: 300px; height: auto; border-radius: 5px; margin: 10px 0;">
+
+ I even tested the ability to generate a thesis with evidence by putting in a couple of words like “ice is bad” and it spat out an entire paragraph off of that that could have been accepted for an AP exam, like my jaw was open. 
+ Even the games were off the charts, with me seeing such cool things like the asteroid game on one of the TVs near the door and it looked like something I would see in an actual video game. Honestly, all of this N@TM stuff made me realize that there’s so much more stuff I can be doing in CS. I just need to apply myself more. But also, thank you. Thank you for helping me realize that there’s so much more interests I could show. So much more things that I could be coding in CS.
 
 Additionally, here are some photos and fun that Rishab and I had while at Night At The Museum ⬇
 

@@ -5,6 +5,14 @@ permalink: /about/
 comments: true
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Link back to homepage
+        </div>
+    </a>
+</div>
+
 ## Where I have been
 
 Here are some places I have lived.

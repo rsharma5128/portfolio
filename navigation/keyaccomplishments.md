@@ -6,6 +6,13 @@ permalink: /keyaccomplishments
 author: Rohan Sharma
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Link back to homepage
+        </div>
+    </a>
+</div>
 My key accomplishments were mainly as a coder, with me discovering how to code in Mermaid, like below:
 
 ```mermaid
@@ -19,8 +26,10 @@ A --> B
 B --> C
 ```
 
+I also learned how to create a game, like shown below:
 
 [![My pong game](images/pong.png)](https://ahmad-se-tech.github.io/tablegroup/custompong)
+
 
 Another key accomplishment I had as a coder was learning about one of the fundamentals which correlated to what I was doing and teaching about it, as seen [here](https://pages.opencodingsociety.com/js/nested-conditionals)
 

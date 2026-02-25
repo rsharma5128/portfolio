@@ -6,6 +6,14 @@ description: Journey with development tools -- GitHub, Cloning, Virtual Environm
 permalink: /tools/journey
 ---
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Link back to homepage
+        </div>
+    </a>
+</div>
+
 ## Visual Journey
 
 The Linux kernel offers the best distributions for developers through it's open-source availability, allowing developers to modify critical system files to get programs to work and allowing many developing-related packages to be installed via package managers that anyone can put software on.  
