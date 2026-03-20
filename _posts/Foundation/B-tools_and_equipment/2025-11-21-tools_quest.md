@@ -75,3 +75,36 @@ A --> B
 B --> C
 ```
 **NOTE:** `For days 1-3, the top-down lines are listed in chronological order(top is the earliest, bottom is the latest)`
+
+
+## CSSE 2 Review
+
+**REQUIREMENTS I HAVE MET FOR CS111:**
+
+Objects(JSON) - modified NPC object
+
+Strings - inputted links, added dialogues
+
+**REQUIREMENTS I HAVE NOT MET FOR CS111:**
+
+Control Structures
+
+Iteration
+Conditionals - Done in lesson, but not for game
+
+Nested Conditions
+
+Numbers 
+
+Booleans 
+
+Arrays 
+
+Objects (JSON) 
+
+
+Mathematical operations
+
+String Operations
+
+Boolean Expressions
