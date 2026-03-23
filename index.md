@@ -58,6 +58,11 @@ Hi! My name is Rohan Sharma.
             Tools Quest(part of about page)
         </div>
     </a>
+        <a href="{{site.baseurl}}/blogs/cs111" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            CS111 Requirements
+        </div>
+    </a>
 </div>
 
 <br>
